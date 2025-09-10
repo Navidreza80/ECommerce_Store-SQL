@@ -3,6 +3,8 @@
 
 ## SQL
 <img width="1070" height="618" alt="Untitled" src="https://github.com/user-attachments/assets/cb1873f3-7dd7-4f1c-922b-d4992fb3bbed" />
+*E-Commerce Store DB Model In Diagrams (SQL)*
+
 ### Relationship Summary
 • users ↔ carts → one-to-one
 
